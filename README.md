@@ -2,9 +2,9 @@
 
 This repos aims to gather notes and process I am trying to follow as I find my way and style as a coach at Makers.
 
-Some might also be rants, and some could turn into articles.
 
-Things I might want to write further about:
+Let's stop using Jargon
 
-Jargon (SOLID)
-Create posters on the walls.
+Web apps are just command line apps, where controllers are STDIN and views STDOUT
+
+
